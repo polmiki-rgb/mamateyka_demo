@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Mamateyka favicon</title>
+  <rect width="64" height="64" rx="18" fill="#527a90"/>
+  <path d="M14 45V19h7.2l10.8 14.2L42.8 19H50v26h-8V31.4l-10 13.1-10-13.1V45h-8z" fill="#ffffff"/>
+  <circle cx="50" cy="14" r="4.2" fill="#dce7ed" opacity="0.9"/>
+</svg>
