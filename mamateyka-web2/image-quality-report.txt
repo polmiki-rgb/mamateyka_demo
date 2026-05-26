@@ -1,0 +1,15 @@
+30-rokov-mamateyky.html: updated
+aktuality.html: updated
+domka.html: updated
+farnost.html: updated
+galeria.html: updated
+index.html: updated
+ine.html: updated
+mladi.html: updated
+nav.js: updated
+o-nas.html: updated
+oratko.html: updated
+podujatia.html: updated
+rodiny.html: updated
+starajme-sa.html: updated
+galeria.html: refreshed gallery images with high-res source photos

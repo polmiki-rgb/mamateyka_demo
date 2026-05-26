@@ -1,0 +1,16 @@
+index.html | replaced 15 urls from https://mamateyka.sk/ using pool 29
+aktuality.html | replaced 10 urls from https://mamateyka.sk/co-sme-zazili/ using pool 1142
+podujatia.html | replaced 2 urls from https://mamateyka.sk/ using pool 29
+farnost.html | replaced 3 urls from https://mamateyka.sk/kaplnka/ using pool 31
+o-nas.html | replaced 6 urls from https://mamateyka.sk/onas/ using pool 70
+mladi.html | replaced 3 urls from https://mamateyka.sk/mladeznici/ using pool 12
+rodiny.html | replaced 3 urls from https://mamateyka.sk/rodiny/ using pool 19
+oratko.html | replaced 2 urls from https://mamateyka.sk/oratko/ using pool 19
+ine.html | replaced 2 urls from https://mamateyka.sk/ine/ using pool 18
+domka.html | no effective changes
+starajme-sa.html | replaced 1 urls from https://mamateyka.sk/starajmesa/ using pool 5
+30-rokov-mamateyky.html | no effective changes
+galeria.html | replaced 16 urls from https://mamateyka.sk/fotogaleria/ using pool 51
+kontakt.html | no effective changes
+podporte.html | replaced 1 urls from https://mamateyka.sk/podportenas/ using pool 1
+nav.js | replaced community switcher photos with corresponding source pages
